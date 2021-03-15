@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: `https://www.itsnwa.com`,
   host: "0.0.0.0",
   titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  siteDescription: "Abstract Color",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
