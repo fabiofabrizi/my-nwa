@@ -1,11 +1,11 @@
 ---
 date: 2021-03-09
 title: Journal Entry 2
-author: J.K. Rowling
-excerpt: Harry got back into his bunk with his head buzzing. He knew he ought to feel exhausted; It was nearly three in the morning, but he felt wide-awake - and worried.
+author: Nichlas W. Andersen
+excerpt: Harry got back into his bunk with his head buzzing. He knew he ought to feel
+  exhausted; It was nearly three in the morning, but he felt wide-awake - and worried.
 
 ---
-
 ## The Dark Mark ##
 
 "Ron, You-Know-Who and his followers sent the Dark Mark into the air whenever they killed," said Mr. Weasley.  "The terror it inspired. . . you have no idea, you're too young. Just picture coming home and finding the Dark Mark hovering over your house, and knowing what you're about to find inside. . . ."  Mr. Weasley winced. "Everyone's worst fear. . . the very worst.. 
@@ -49,4 +49,4 @@ They heard urgent voices as they approached the spot where the Portkeys lay, and
 
 **"Oh thank goodness, thank goodness!"**
 
-Mrs. Weasley, who had evidently been waiting for them in the front yard, came running toward them, still wearing her bedroom slippers, her face pale and strained, a rolled-up copy of the Daily Prophet clutched in her hand. 
+Mrs. Weasley, who had evidently been waiting for them in the front yard, came running toward them, still wearing her bedroom slippers, her face pale and strained, a rolled-up copy of the Daily Prophet clutched in her hand.
